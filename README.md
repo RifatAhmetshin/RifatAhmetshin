@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there, I'm Rifat👋
 
-<!--
-**RifatAhmetshin/RifatAhmetshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me🤔
+Hello! My name is Rifat, and I am a student at St. Petersburg Polytechnic University. My studies focus on the fascinating field of radio engineering, and I am passionate about exploring this area.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects🔭
+Here are some of the projects I'm currently working on or have completed:
+
+ []informatics(https://github.com/RifatAhmetshin/informatics)
+   - The main repository
+
+
+⚡Feel free to explore my repositories and provide any feedback or suggestions. Contributions are always welcome!
+
